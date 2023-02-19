@@ -31,7 +31,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+ 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
@@ -51,9 +51,9 @@
 
 <p align="center">
  
-<a href="https://www.linkedin.com/in/spgarusinghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sajeewa.garusinghe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/spgarusinghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sajeewa%20Garusinghe%20-blue?style=flat-square&logo=linkedin"></a>
+ 
+<a href="mailto:sajeewa.garusinghe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sajeewa.garusinghe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
  
