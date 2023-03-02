@@ -52,6 +52,8 @@
 <p align="center">
  
 <a href="https://www.linkedin.com/in/spgarusinghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sajeewa%20Garusinghe%20-blue?style=flat-square&logo=linkedin"></a>
+  
+<a href="https://leetcode.com/sajeeva616/"><img alt="Leettcode" src="https://img.shields.io/badge/leetcode-sajeeva616-yellow"></a>
  
 <a href="mailto:sajeewa.garusinghe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sajeewa.garusinghe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
