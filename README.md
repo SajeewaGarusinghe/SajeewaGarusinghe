@@ -45,6 +45,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajeewaGarusinghe&theme=buefy&layout=compact" />
 </a>
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sajeewagarusinghe)](https://git.io/streak-stats)
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
