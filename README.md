@@ -45,7 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajeewaGarusinghe&theme=buefy&layout=compact" />
 </a> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sajeewagarusinghe&theme=radical&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sajeewagarusinghe&theme=radical)](https://git.io/streak-stats)
 
 <br/>
 
