@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Fullstack development.
 - 💼 &nbsp; I’m currently learning SpringBoot ,Angular.
 - 🌱 &nbsp; Learning more about AWS, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp;  I’m looking to collaborate on MERN stack and java spring boot projects.
+- ✍️ &nbsp;  I’m looking to collaborate on java spring boot and MERN stack projects.
 - ✍️ &nbsp; studied Bsc (hons) in electrical engineering at University of Moratuwa ,Sri Lanka.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
