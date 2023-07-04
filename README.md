@@ -47,6 +47,12 @@
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=sajeewagarusinghe&theme=radical)](https://git.io/streak-stats)
 
+
+ <p align="center" >
+    <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
+</p?
+
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
