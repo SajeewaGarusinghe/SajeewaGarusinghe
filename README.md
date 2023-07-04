@@ -39,11 +39,13 @@
  
 
 <br/>
-
+<p align="center" style='margin: 8px 4px;'>
 <a href="https://github.com/SajeewaGarusinghe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SajeewaGarusinghe&theme=buefy&show_icons=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajeewaGarusinghe&theme=buefy&layout=compact" /> -->
 </a> 
+ </p>
+  
 <p align="center" style='margin: 8px 4px;'>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=sajeewagarusinghe&theme=radical)](https://git.io/streak-stats)
