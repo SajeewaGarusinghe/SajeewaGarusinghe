@@ -39,12 +39,12 @@
  
 
 <br/>
-<p align="center" style='margin: 8px 4px;'>
+ 
 <a href="https://github.com/SajeewaGarusinghe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SajeewaGarusinghe&theme=buefy&show_icons=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajeewaGarusinghe&theme=buefy&layout=compact" /> -->
 </a> 
- </p>
+ 
   
 <p align="center" style='margin: 8px 4px;'>
 
@@ -53,12 +53,12 @@
  </p>
 
 
-<p align="center" >
+<p align="Left" >
     <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
 </p?
 
  
-<p align="center" style='margin: 8px 4px;'>
+<p align="Left" style='margin: 8px 4px;'>
     <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
 </p>
 
