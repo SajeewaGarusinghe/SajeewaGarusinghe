@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Fullstack development.
-- 💼 &nbsp; I’m currently learning SpringBoot ,Angular.
+- 💼 &nbsp; I’m currently learning SpringBoot ,Microservices ,Angular.
 - 🌱 &nbsp; Learning more about AWS, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp;  I’m looking to collaborate on java spring boot and MERN stack projects.
 - ✍️ &nbsp; studied Bsc (hons) in electrical engineering at University of Moratuwa ,Sri Lanka.
