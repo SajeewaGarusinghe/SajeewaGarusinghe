@@ -1,15 +1,15 @@
 
 
-<h2> Hey there! I'm Sajeewa.</h2>
+<h2>Hi, I'm Sajeewa Garusinghe 👋</h2>
+<h4>Senior Software Engineer @ Alibaba Inc.</h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Fullstack development.
-- 💼 &nbsp; I’m currently learning SpringBoot ,Microservices ,Angular.
-- 🌱 &nbsp; Learning more about AWS, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp;  I’m looking to collaborate on java spring boot and MERN stack projects.
-- ✍️ &nbsp; studied Bsc (hons) in electrical engineering at University of Moratuwa ,Sri Lanka.
+- 💼 &nbsp; Senior Software Engineer at **Alibaba Inc.**, building scalable backend systems and full-stack solutions.
+- 🛠 &nbsp; Focused on Java/Spring Boot microservices, Angular/React front ends, and cloud-native architecture on AWS.
+- 🌱 &nbsp; Deepening expertise in distributed systems design and applied AI.
+- 🤝 &nbsp; Open to collaborating on Java Spring Boot and MERN stack projects.
+- 🎓 &nbsp; BSc (Hons) in Electrical Engineering, University of Moratuwa, Sri Lanka.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,26 +24,23 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
- ![Static Badge](https://img.shields.io/badge/PostgreSQL-PostgreSQL-blue)
-
-
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- ☁️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ ](https://img.shields.io/badge/IntelliJ%20IDEA-IntelliJ%20-red)
-
- 
- 
- 
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
 
 <br/>
  
@@ -62,7 +59,7 @@
 
 <p align="Left" >
     <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
-</p?
+</p>
 
  
 <p align="Left" style='margin: 8px 4px;'>
