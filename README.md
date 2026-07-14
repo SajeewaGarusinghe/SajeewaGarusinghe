@@ -16,7 +16,7 @@ sajeewa@alibaba:~$ ssh visitor@github.com/SajeewaGarusinghe
 [+] authenticating as guest ........................... ok
 [+] loading profile ................................... ok
 
-Welcome. 34 lines of ASCII, one engineer, zero deadlocks.
+Welcome. 41 lines of ASCII, one engineer, zero deadlocks.
 Last login: from wherever you are, just now.
 ```
 

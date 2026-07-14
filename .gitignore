@@ -1,0 +1,8 @@
+tools/*.exe
+__pycache__/
+
+# portrait sources stay local; only the rendered ASCII is published
+assets/face.png
+assets/profile.jpeg
+
+.idea/
