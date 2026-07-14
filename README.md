@@ -1,72 +1,9 @@
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  ● ● ●                      sajeewa@alibaba: ~                          _ ▫ ✕ │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer+%40+Alibaba+Group;Microservices+%C2%B7+Distributed+Systems+%C2%B7+Cloud-Native;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Kubernetes;root%40sajeewa%3A~%23+./build_something_that_scales.sh" alt="typing banner" />
-
-</div>
-
-```console
-sajeewa@alibaba:~$ ssh visitor@github.com/SajeewaGarusinghe
-[+] handshake ......................................... ok
-[+] authenticating as guest ........................... ok
-[+] loading profile ................................... ok
-
-Welcome. 41 lines of ASCII, one engineer, zero deadlocks.
-Last login: from wherever you are, just now.
-```
-
----
-
-<h3>$ neofetch</h3>
-
-<table>
-<tr>
-<td valign="top" width="46%">
-
-<img src="assets/portrait.svg" alt="ASCII portrait of Sajeewa Garusinghe" width="100%" />
-
-</td>
-<td valign="top" width="54%">
-
-<pre>
-<b>sajeewa@alibaba</b>
------------------------------------
-<b>OS</b> ............ Ubuntu 22.04 (WSL2) / macOS
-<b>Host</b> .......... Alibaba Group — Colombo, LK
-<b>Division</b> ...... Alibaba Cloud · Daraz FS (Koko)
-<b>Title</b> ......... Senior Software Engineer
-<b>Uptime</b> ........ 4+ yrs shipping to production
-<b>Shell</b> ......... zsh 5.9
-<b>Kernel</b> ........ jvm-21-openjdk
-
-<b>Languages</b> ..... Java, Python, JavaScript, SQL
-<b>Frameworks</b> .... Spring Boot 3, React, Node.js
-<b>Streaming</b> ..... Apache Kafka
-<b>Datastores</b> .... PostgreSQL, MySQL, Spanner,
-                 BigQuery, Redis, Hazelcast
-<b>Cloud</b> ......... AWS, GCP, Azure, Alibaba Cloud
-<b>Orchestration</b> . Docker, Kubernetes, Jenkins
-<b>Observability</b> . OpenTelemetry, Grafana Tempo
-<b>Security</b> ...... OAuth 2.0 / OIDC, JWT, RBAC
-
-<b>Education</b> ..... MSc Advanced Software Eng.
-                 Univ. of Westminster (reading)
-                 BSc (Hons) Electrical Eng.
-                 Univ. of Moratuwa
-
-<b>Memory</b> ........ [██████████░░░░░░] caffeine
-<b>Threads</b> ....... 1 main, N daemon, 0 deadlocks
-<b>Status</b> ........ open to interesting problems
-</pre>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/SajeewaGarusinghe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajeewaGarusinghe/SajeewaGarusinghe/main/dark.svg">
+    <img alt="Sajeewa Garusinghe — Senior Software Engineer @ Alibaba Group" src="https://raw.githubusercontent.com/SajeewaGarusinghe/SajeewaGarusinghe/main/light.svg">
+  </picture>
+</a>
 
 ---
 

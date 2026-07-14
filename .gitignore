@@ -1,8 +1,9 @@
 tools/*.exe
 __pycache__/
 
-# portrait sources stay local; only the rendered ASCII is published
+# portrait sources stay local; only the rendered SVGs are published
 assets/face.png
 assets/profile.jpeg
+assets/portrait.svg
 
 .idea/

@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="566"
+     viewBox="0 0 1180 566" role="img"
+     aria-label="Sajeewa Garusinghe — Senior Software Engineer at Alibaba Group">
+  <style>
+    text, tspan {
+      font-family: "ConsolasFallback", Consolas, "SFMono-Regular", Menlo, monospace;
+      font-size: 15px;
+      white-space: pre;
+    }
+    .cursor { animation: blink 1.1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect width="1180" height="566" fill="#FFFFFF" rx="15"/>
+  <g transform="translate(24,26) scale(0.42,0.86)">
+    <text fill="#14532D" xml:space="preserve">
+      <tspan x="0" y="0">                                                    ..--- ..</tspan>
+      <tspan x="0" y="9">                                               .-==+*#%%%**#+:--:.</tspan>
+      <tspan x="0" y="18">                                           :=+*###%%#%%##%%#%%%%##*=-+==-.</tspan>
+      <tspan x="0" y="27">                                       .-=##%%%%%%%%%%%#%%%#%%%%%%%%%%%%%%*:</tspan>
+      <tspan x="0" y="36">                                    .-+#%%%%##%%@@@@%%%%%%%@%%%%@@@@%%%%%%%#*:</tspan>
+      <tspan x="0" y="45">                                   +#%%##%@@%#%%%%%%%%@@@@@@@@%%%%%%%%%%%%%%%%+-</tspan>
+      <tspan x="0" y="54">                                 :*####%%%%%%%%%%%%%@@%%@@@@%%#%%%%%%%%%%%%%%%@%*-</tspan>
+      <tspan x="0" y="63">                                +%%#%%%%%%%%%%%%%%%%%%%%@@@%%%%%%%@@%@@@@%%@@@@@@%+:</tspan>
+      <tspan x="0" y="72">                              -#%%%%%%%%%%%%%%%%%%%%%%@%@@@%%%%%%%@@@@@%%@@@@%%@@@%*.</tspan>
+      <tspan x="0" y="81">                             +%%%%%%%#%%%%%%%%%%%%%@@@%%%%%%%%%@@@@@@@%%%%@%%%%@@@@%+.</tspan>
+      <tspan x="0" y="90">                            :%%%%%%%%%%%%%%%%%%%%%%@@@@%%@%@%%%%%%%%%%%%@@@%%%@%@@@%%+.</tspan>
+      <tspan x="0" y="99">                            *%%%%%%%#%%#%%%###%###%@@@%%%%%%%%%%%%%%%%%%%%%%%%@@@%@@@%=</tspan>
+      <tspan x="0" y="108">                           :#%%%%%%######*****#%%%%%%%%%%%%%%%%%##***###%%%@@%@@@@@@%@#:</tspan>
+      <tspan x="0" y="117">                           -%%%%%%%####***++==+*#%##%%%%%%%%%%#*++===+***%@@@@@@@@@@@@%:</tspan>
+      <tspan x="0" y="126">                           *@%%%%%#####******+==++++++#######*+==-----=**#%%%%%@@@@@@@*.</tspan>
+      <tspan x="0" y="135">                          .%@%%%#*+==+**+=======---::::::-------::::--===++*###%%@@@@%-</tspan>
+      <tspan x="0" y="144">                          -%%#%%*=-:-::::...:...............:::::::::::----=++*#%%@%@%.</tspan>
+      <tspan x="0" y="153">                          -#####*+-::..........................::::::::-----=+*##%%%%%-</tspan>
+      <tspan x="0" y="162">                          -*####*+=-::........... ..............:::::-------=+**#%%%%@=</tspan>
+      <tspan x="0" y="171">                          :#####**=--:........     .............:..:::::-----=+*##%%%%=</tspan>
+      <tspan x="0" y="180">                          .####*+*=::......         ...................::--:-=++*#%%%%:</tspan>
+      <tspan x="0" y="189">                           +%#**++-:::.. ..  ......:........:::-====+++++**+===++*%%%#.</tspan>
+      <tspan x="0" y="198">                           :%%#*+=:::..:-+==++**##***+-:.:--=+*#%%%%@@%%%%###**+++#%@*</tspan>
+      <tspan x="0" y="207">                            %%##*-:::-=++*##%%%%%%%%##+-::--=*#%%%%%%#********+++=*%%=</tspan>
+      <tspan x="0" y="216">                            +%##+:..-==--====+*#%%###*=....::+#%%%%##****+++*+==+=+%%:</tspan>
+      <tspan x="0" y="225">                            .###=...::-+=-=+*##%*###**-.. .::+####*=#%%%*+###*+====#%=---</tspan>
+      <tspan x="0" y="234">                           . +%#=...::=+*#++%%#*=+**+=:.. ..:=+****+****++*#*+=====*#+=-==:</tspan>
+      <tspan x="0" y="243">                         :--::=#=....:-==++=++**#*+=:....  ..---==+*******+=-:---==+*-:..:=:</tspan>
+      <tspan x="0" y="252">                        :-:..::=-...... .:-=++++=-.......  ..:---::::------::-::-==+*-:::::-</tspan>
+      <tspan x="0" y="261">                        ::.....--....  .   .....   .....   ....-=-::.....:::::::-==+#*+=::::</tspan>
+      <tspan x="0" y="270">                        ::...:-*-....           .....      ....::.::::.........:-=++*=*+-::.</tspan>
+      <tspan x="0" y="279">                         ...:-++=...          ........:-:..::-=++=----::.......:-=++#=+*-::</tspan>
+      <tspan x="0" y="288">                           ..--.=:...        ..... .:+**+==++*****+------::::::--=++#*=--:.</tspan>
+      <tspan x="0" y="297">                           .....+=......   ......    :--+#*+*##*#*+=----=-------=++*#+::-.</tspan>
+      <tspan x="0" y="306">                            .   =+:.:.......::....:-==+*#*#**#%%#####***++=----=+***%=:::</tspan>
+      <tspan x="0" y="315">                                -+=-:::..::::::===+=-=---====+**++*++*####*--==+****#+-:</tspan>
+      <tspan x="0" y="324">                              ...+==-----::.:=+#*=======++***#**######%%%%#==+**#**#*.</tspan>
+      <tspan x="0" y="333">                                .+==-==-=-:.-**#%##*++======+===+++***++#%*+***##**#=</tspan>
+      <tspan x="0" y="342">                                 .+==-=+====-+#*=----:........:::-===-:=##***#*#*##*.</tspan>
+      <tspan x="0" y="351">                                  -++=====++=+**-..::----=====+++*+=---+##****#*###+</tspan>
+      <tspan x="0" y="360">                                   =*+++++=+==+*=:...:-=+####%##**==-=+*##*########:</tspan>
+      <tspan x="0" y="369">                                    *##*+++++==+=-:....::-=+***+=====+**#%######%%-</tspan>
+      <tspan x="0" y="378">                                    .*%#***+++++=+=::::.::-=++==+==+***####%##%%%=</tspan>
+      <tspan x="0" y="387">                                     :*%%####*****===+=+++++*****#**###%%%%%%%%%*</tspan>
+      <tspan x="0" y="396">                                     .-+#%%%%####***+*****######%#%%#%%%%%%%%%#*=</tspan>
+      <tspan x="0" y="405">                                     .::-+*#%%%%%###**##%#%%%%%%%%%%%%%%@%%%##*+=</tspan>
+      <tspan x="0" y="414">                                      :::-=+**#%%%%%%%%%%%%%%%%%%%%%%%@%%%##*+++=</tspan>
+      <tspan x="0" y="423">                                      :.::---==+***#%%%%%%%%%%@%%%%%%%###***+++=-</tspan>
+      <tspan x="0" y="432">                                     .:....:----===++***############******++===--</tspan>
+      <tspan x="0" y="441">                                 ...:-:......:::--======+++********++++++===----==-::::</tspan>
+      <tspan x="0" y="450">                            .-==*#=::::.........::---======+*******++===--------=++++%@%*-.</tspan>
+      <tspan x="0" y="459">                        :-+##%%%%%#:..............::---=++*****++++===----------===-=%%%@@%+-.</tspan>
+      <tspan x="0" y="468">                     .=##%@%##%%%%%#:..............::::--===+=======---------------=#%%%%%%@@%#+-:</tspan>
+      <tspan x="0" y="477">                .:=+##%%#%%%%%%%%%%%%=..............::::::---======--------------:-#@%%%%%%%%%%@@%%*+-:.</tspan>
+      <tspan x="0" y="486">             :-+#%%%%%%%%%%%%%%%%%%%%%*:..........:.:::::------==---:--:--------:=%@%%%%%%%%%%%%%%%%@@%%#+-.</tspan>
+      <tspan x="0" y="495">         :=+*%%%%%%%%%%%%%%%%%%%%%%%%%%#=...........::::----===---------------:-*%%%%%%%%%%%%%%%%%%%%%%%%@@%#*=-.</tspan>
+      <tspan x="0" y="504">     .-+*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*:........:::------------------------=%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%#*=:.</tspan>
+      <tspan x="0" y="513">:-+*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+:....:::::--------:::::------::-=*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+</tspan>
+      <tspan x="0" y="522">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*-......::----::::..:---:::::=*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
+      <tspan x="0" y="531">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*=-:::::....    ..:..:-=*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
+      <tspan x="0" y="540">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%####***+++++++*##%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%</tspan>
+      <tspan x="0" y="549">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%</tspan>
+    </text>
+  </g>
+  <text x="500" y="42" fill="#166534" font-weight="bold">sajeewa@alibaba</text>
+  <text x="500" y="63" fill="#94A3B8">----------------------------------------------</text>
+  <text x="500" y="84" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Subject</tspan><tspan fill="#94A3B8"> ........ </tspan><tspan fill="#1F2937">Sajeewa Garusinghe</tspan></text>
+  <text x="500" y="105" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Role</tspan><tspan fill="#94A3B8"> ........... </tspan><tspan fill="#1F2937">Senior Software Engineer</tspan></text>
+  <text x="500" y="126" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Company</tspan><tspan fill="#94A3B8"> ........ </tspan><tspan fill="#1F2937">Alibaba Group</tspan></text>
+  <text x="500" y="147" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Division</tspan><tspan fill="#94A3B8"> ....... </tspan><tspan fill="#1F2937">Alibaba Cloud · Daraz Financial Services (Koko)</tspan></text>
+  <text x="500" y="168" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Origin</tspan><tspan fill="#94A3B8"> ......... </tspan><tspan fill="#1F2937">Colombo, Sri Lanka</tspan></text>
+  <text x="500" y="189" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Status</tspan><tspan fill="#94A3B8"> ......... </tspan><tspan fill="#1F2937">Building • Scaling • Shipping</tspan></text>
+  <text x="500" y="231" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Core</tspan><tspan fill="#94A3B8"> ........... </tspan><tspan fill="#1F2937">Java, Python, JavaScript, SQL</tspan></text>
+  <text x="500" y="252" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Backend</tspan><tspan fill="#94A3B8"> ........ </tspan><tspan fill="#1F2937">Spring Boot 3, Node.js, Microservices</tspan></text>
+  <text x="500" y="273" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Frontend</tspan><tspan fill="#94A3B8"> ....... </tspan><tspan fill="#1F2937">React, HTML/CSS</tspan></text>
+  <text x="500" y="294" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Streaming</tspan><tspan fill="#94A3B8"> ...... </tspan><tspan fill="#1F2937">Apache Kafka</tspan></text>
+  <text x="500" y="315" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Data</tspan><tspan fill="#94A3B8"> ........... </tspan><tspan fill="#1F2937">PostgreSQL, MySQL, Spanner, BigQuery, Redis</tspan></text>
+  <text x="500" y="336" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Cloud</tspan><tspan fill="#94A3B8"> .......... </tspan><tspan fill="#1F2937">AWS, GCP, Azure, Alibaba Cloud</tspan></text>
+  <text x="500" y="357" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">DevOps</tspan><tspan fill="#94A3B8"> ......... </tspan><tspan fill="#1F2937">Docker, Kubernetes, Jenkins, Git</tspan></text>
+  <text x="500" y="378" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Observability</tspan><tspan fill="#94A3B8"> .. </tspan><tspan fill="#1F2937">OpenTelemetry, Grafana Tempo</tspan></text>
+  <text x="500" y="399" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Security</tspan><tspan fill="#94A3B8"> ....... </tspan><tspan fill="#1F2937">OAuth 2.0 / OIDC, JWT, RBAC</tspan></text>
+  <text x="500" y="420" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">ToolChain</tspan><tspan fill="#94A3B8"> ...... </tspan><tspan fill="#1F2937">IntelliJ, VS Code, Postman, Maven, Gradle</tspan></text>
+  <text x="500" y="462" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Education</tspan><tspan fill="#94A3B8"> ...... </tspan><tspan fill="#1F2937">MSc Advanced Software Eng — Westminster</tspan></text>
+  <text x="500" y="483" fill="#1F2937" xml:space="preserve">                 BSc (Hons) Electrical Eng — Moratuwa</text>
+  <text x="500" y="504" xml:space="preserve"><tspan fill="#0F766E" font-weight="bold">Contact</tspan><tspan fill="#94A3B8"> ........ </tspan><tspan fill="#1F2937">linkedin.com/in/spgarusinghe</tspan></text>
+  <text x="500" y="544" fill="#94A3B8">sajeewa@alibaba:~$ <tspan
+        class="cursor" fill="#166534">█</tspan></text>
+</svg>

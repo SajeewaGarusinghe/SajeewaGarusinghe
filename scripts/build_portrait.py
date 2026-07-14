@@ -59,7 +59,7 @@ def to_ascii(exe: str, image: Path, width: int, extra: list[str]) -> str:
     return out.stdout
 
 
-def clean(raw: str) -> list[str]:
+def clean(raw: str, max_lines: int = MAX_LINES) -> list[str]:
     lines = [l.rstrip() for l in raw.replace("\r\n", "\n").split("\n")]
 
     while lines and not lines[0].strip():
@@ -75,9 +75,9 @@ def clean(raw: str) -> list[str]:
     indent = min(len(l) - len(l.lstrip()) for l in body)
     lines = [l[indent:] if l.strip() else "" for l in lines]
 
-    if len(lines) > MAX_LINES:
+    if len(lines) > max_lines:
         sys.exit(
-            f"{len(lines)} lines > {MAX_LINES} cap -- rerun with a smaller --width"
+            f"{len(lines)} lines > {max_lines} cap -- rerun with a smaller --width"
         )
     return lines
 
@@ -88,6 +88,7 @@ def main() -> int:
     ap.add_argument("--width", type=int, action="append", default=None)
     ap.add_argument("--tag", default="", help="name suffix, e.g. --tag complex")
     ap.add_argument("--crop", default="", help="crop box x0,y0,x1,y1 before converting")
+    ap.add_argument("--max-lines", type=int, default=MAX_LINES)
     # anything else (--complex, -n, -m '...') is forwarded to the converter
     args, extra = ap.parse_known_args()
     extra = [a for a in extra if a != "--"]
@@ -111,7 +112,7 @@ def main() -> int:
         image = cropped
 
     for w in widths:
-        lines = clean(to_ascii(exe, image, w, extra))
+        lines = clean(to_ascii(exe, image, w, extra), args.max_lines)
         suffix = (f"-{args.tag}" if args.tag else "") + (
             "" if len(widths) == 1 else f"-{w}"
         )
