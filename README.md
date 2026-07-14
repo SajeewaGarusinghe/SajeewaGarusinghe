@@ -1,131 +1,259 @@
-<h2>Hi, I'm Sajeewa Garusinghe 👋</h2>
-<h4>Senior Software Engineer @ Alibaba Group — Alibaba Cloud &amp; Daraz Financial Services (Koko)</h4>
+<div align="center">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  ● ● ●                      sajeewa@alibaba: ~                          _ ▫ ✕ │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-- 💼 &nbsp; Senior Software Engineer at **Alibaba Group**, working across **Alibaba Cloud** and **Daraz Financial Services (Koko)**.
-- 🛠 &nbsp; Build scalable microservices, secure distributed systems, and cloud-native platforms with Java/Spring Boot, Python, and React/Node.js.
-- ☁️ &nbsp; Hands-on with multi-cloud environments (AWS, GCP, Azure, Alibaba Cloud), containerized deployments, and CI/CD automation.
-- 📡 &nbsp; Experienced in real-time event streaming (Kafka), database migrations, and backend security hardening.
-- 🎓 &nbsp; Reading for an MSc in Advanced Software Engineering at the University of Westminster; BSc (Hons) Electrical Engineering, University of Moratuwa.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer+%40+Alibaba+Group;Microservices+%C2%B7+Distributed+Systems+%C2%B7+Cloud-Native;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Kubernetes;root%40sajeewa%3A~%23+./build_something_that_scales.sh" alt="typing banner" />
 
-<h3> 💼 &nbsp;Experience</h3>
+</div>
 
-- **Senior Software Engineer**, Alibaba Group — *Alibaba Cloud &amp; Daraz Financial Services (Koko)* — Feb 2026 – Present, Colombo
-- **Senior Software Engineer**, Aventude Pte. Ltd — Mar 2025 – Feb 2026, Colombo
-  - Built an OAuth 2.0/OIDC authentication service integrating with Norway's Feide educational identity provider
-  - Migrated a legacy Struts/Tomcat app to OpenTelemetry with vendor-neutral distributed tracing via Grafana Tempo
-  - Delivered an enterprise rich-text-to-PDF pipeline (TinyMCE, FreeMarker, OpenHTML-to-PDF) processing 1000+ daily submissions in production
-  - Hardened Spring Boot services against information leakage (header sanitization, actuator lockdown, custom error handling)
-- **Software Engineer**, Behaviol Gaming — Jan 2023 – Mar 2025, Colombo
-  - Built and scaled Spring Boot microservices for the **META11** gaming platform; led MySQL → Google Cloud Spanner migration
-  - Designed Kafka-based event streaming and an optimized leaderboard using self-balanced ordering statistic trees (SBOST)
-  - Architected **DataPlay**, a multi-tenant platform (shared-DB/separate-schema model) with JWT/RBAC auth and Hazelcast/Redis caching
+```console
+sajeewa@alibaba:~$ ssh visitor@github.com/SajeewaGarusinghe
+[+] handshake ......................................... ok
+[+] authenticating as guest ........................... ok
+[+] loading profile ................................... ok
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+Welcome. 34 lines of ASCII, one engineer, zero deadlocks.
+Last login: from wherever you are, just now.
+```
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-SpringBoot-green)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 📡 &nbsp;
-  ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apachekafka)
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
-- ☁️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-  ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-333333?style=flat&logo=alibabacloud)
-- 🚀 &nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
-  ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
+---
 
-<h3> 📜 &nbsp;Certifications</h3>
+<h3>$ neofetch</h3>
+
+<table>
+<tr>
+<td valign="top" width="46%">
+
+<img src="assets/portrait.svg" alt="ASCII portrait of Sajeewa Garusinghe" width="100%" />
+
+</td>
+<td valign="top" width="54%">
+
+<pre>
+<b>sajeewa@alibaba</b>
+-----------------------------------
+<b>OS</b> ............ Ubuntu 22.04 (WSL2) / macOS
+<b>Host</b> .......... Alibaba Group — Colombo, LK
+<b>Division</b> ...... Alibaba Cloud · Daraz FS (Koko)
+<b>Title</b> ......... Senior Software Engineer
+<b>Uptime</b> ........ 4+ yrs shipping to production
+<b>Shell</b> ......... zsh 5.9
+<b>Kernel</b> ........ jvm-21-openjdk
+
+<b>Languages</b> ..... Java, Python, JavaScript, SQL
+<b>Frameworks</b> .... Spring Boot 3, React, Node.js
+<b>Streaming</b> ..... Apache Kafka
+<b>Datastores</b> .... PostgreSQL, MySQL, Spanner,
+                 BigQuery, Redis, Hazelcast
+<b>Cloud</b> ......... AWS, GCP, Azure, Alibaba Cloud
+<b>Orchestration</b> . Docker, Kubernetes, Jenkins
+<b>Observability</b> . OpenTelemetry, Grafana Tempo
+<b>Security</b> ...... OAuth 2.0 / OIDC, JWT, RBAC
+
+<b>Education</b> ..... MSc Advanced Software Eng.
+                 Univ. of Westminster (reading)
+                 BSc (Hons) Electrical Eng.
+                 Univ. of Moratuwa
+
+<b>Memory</b> ........ [██████████░░░░░░] caffeine
+<b>Threads</b> ....... 1 main, N daemon, 0 deadlocks
+<b>Status</b> ........ open to interesting problems
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>$ cat /etc/motd</h3>
+
+```console
+> Senior Software Engineer at Alibaba Group, working across Alibaba Cloud
+  and Daraz Financial Services (Koko).
+
+> I build scalable microservices, secure distributed systems, and
+  cloud-native platforms — Java/Spring Boot, Python, React/Node.js.
+
+> Comfortable across multi-cloud (AWS, GCP, Azure, Alibaba Cloud),
+  containerized deploys, and CI/CD automation.
+
+> Real-time event streaming (Kafka), database migrations at scale,
+  and backend security hardening.
+
+> Reading for an MSc in Advanced Software Engineering, University of
+  Westminster. BSc (Hons) Electrical Engineering, University of Moratuwa.
+```
+
+---
+
+<h3>$ ./trace --career --verbose</h3>
+
+```console
+[2026-02 → present]  ALIBABA GROUP — Senior Software Engineer          Colombo
+  └─ Alibaba Cloud · Daraz Financial Services (Koko)
+
+[2025-03 → 2026-02]  AVENTUDE PTE. LTD — Senior Software Engineer      Colombo
+  ├─ OAuth 2.0 / OIDC auth service integrating Norway's Feide identity provider
+  ├─ Migrated a legacy Struts/Tomcat app to OpenTelemetry — vendor-neutral
+  │  distributed tracing via Grafana Tempo
+  ├─ Enterprise rich-text → PDF pipeline (TinyMCE, FreeMarker, OpenHTML-to-PDF)
+  │  processing 1000+ daily submissions in production
+  └─ Hardened Spring Boot services against information leakage
+     (header sanitization, actuator lockdown, custom error handling)
+
+[2023-01 → 2025-03]  BEHAVIOL GAMING — Software Engineer               Colombo
+  ├─ Built and scaled Spring Boot microservices for the META11 gaming platform
+  ├─ Led the MySQL → Google Cloud Spanner migration
+  ├─ Kafka-based event streaming + leaderboard optimized with self-balanced
+  │  ordering statistic trees (SBOST)
+  └─ Architected DataPlay — multi-tenant platform (shared-DB / separate-schema)
+     with JWT/RBAC auth and Hazelcast/Redis caching
+
+[exit 0]  no regressions detected.
+```
+
+---
+
+<h3>$ pkg list --installed</h3>
+
+<div align="center">
+
+`core`
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=Java&logoColor=00FF41)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=00FF41)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+
+`web`
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF41)
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=HTML5&logoColor=00FF41)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat-square&logo=CSS3&logoColor=00FF41)
+
+`data / streaming`
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![BigQuery](https://img.shields.io/badge/-BigQuery-0d1117?style=flat-square&logo=googlebigquery&logoColor=00FF41)
+
+`cloud`
+![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=00FF41)
+![GCP](https://img.shields.io/badge/-GCP-0d1117?style=flat-square&logo=google-cloud&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoft-azure&logoColor=00FF41)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-0d1117?style=flat-square&logo=alibabacloud&logoColor=00FF41)
+
+`ops`
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00FF41)
+![Jenkins](https://img.shields.io/badge/-Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=00FF41)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00FF41)
+![Maven](https://img.shields.io/badge/-Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=00FF41)
+![Gradle](https://img.shields.io/badge/-Gradle-0d1117?style=flat-square&logo=gradle&logoColor=00FF41)
+
+</div>
+
+---
+
+<h3>$ ls -la ~/.certs/</h3>
 
 <details>
-<summary>Cloud &amp; Platform</summary>
+<summary><code>drwxr-xr-x  cloud-and-platform/</code></summary>
 
-- Ultimate AWS Certified Solutions Architect Associate — Udemy
-- AWS Certified Cloud Practitioner (CLF-C02) — Udemy
-- AWS Cloud Practitioner Essentials — Coursera
-- Introduction to Docker for Java Developers / Learning Docker — LinkedIn Learning
-- Learning Kubernetes — LinkedIn Learning
+```
+-rw-r--r--  Ultimate AWS Certified Solutions Architect Associate     Udemy
+-rw-r--r--  AWS Certified Cloud Practitioner (CLF-C02)               Udemy
+-rw-r--r--  AWS Cloud Practitioner Essentials                        Coursera
+-rw-r--r--  Introduction to Docker for Java Developers               LinkedIn
+-rw-r--r--  Learning Docker                                          LinkedIn
+-rw-r--r--  Learning Kubernetes                                      LinkedIn
+```
 
 </details>
 
 <details>
-<summary>Backend &amp; Data</summary>
+<summary><code>drwxr-xr-x  backend-and-data/</code></summary>
 
-- Oracle Certified Professional, Java SE 8 Programmer
-- Spring Boot 3, Spring 6 &amp; Hibernate for Beginners
-- Advanced Spring: Spring Boot Actuator — LinkedIn Learning
-- Microservices Foundations — LinkedIn Learning
-- Complete Guide to Apache Kafka for Beginners / Apache Kafka Real-time Stream Processing — LinkedIn Learning, Udemy
-- The Complete SQL Bootcamp — Coursera
+```
+-rw-r--r--  Oracle Certified Professional, Java SE 8 Programmer      Oracle
+-rw-r--r--  Spring Boot 3, Spring 6 & Hibernate                      Udemy
+-rw-r--r--  Advanced Spring: Spring Boot Actuator                    LinkedIn
+-rw-r--r--  Microservices Foundations                                LinkedIn
+-rw-r--r--  Complete Guide to Apache Kafka for Beginners             LinkedIn
+-rw-r--r--  Apache Kafka Real-time Stream Processing                 Udemy
+-rw-r--r--  The Complete SQL Bootcamp                                Coursera
+```
 
 </details>
 
 <details>
-<summary>Frontend &amp; General</summary>
+<summary><code>drwxr-xr-x  frontend-and-general/</code></summary>
 
-- NodeJS – The Complete Guide (MVC, REST APIs, GraphQL) — Udemy
-- React – The Complete Guide (Hooks, Router, Redux) — Udemy
-- JavaScript Algorithms and Data Structures Masterclass — Udemy
-- Complete Python Developer — Udemy
-- Agile Software Development: Code Quality — LinkedIn Learning
-- Scrum Foundation Professional Certificate (SFPC)
+```
+-rw-r--r--  NodeJS – The Complete Guide (MVC, REST APIs, GraphQL)    Udemy
+-rw-r--r--  React – The Complete Guide (Hooks, Router, Redux)        Udemy
+-rw-r--r--  JavaScript Algorithms and Data Structures Masterclass    Udemy
+-rw-r--r--  Complete Python Developer                                Udemy
+-rw-r--r--  Agile Software Development: Code Quality                 LinkedIn
+-rw-r--r--  Scrum Foundation Professional Certificate (SFPC)         CertiProf
+```
 
 </details>
 
-<br/>
+---
 
-<a href="https://github.com/SajeewaGarusinghe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SajeewaGarusinghe&theme=buefy&show_icons=true" />
+<h3>$ ./telemetry --live</h3>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SajeewaGarusinghe&theme=chartreuse-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" alt="github stats" />
+<img height="170em" src="https://streak-stats.demolab.com?user=SajeewaGarusinghe&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
+
+</div>
+
+<h3>$ ./render --contributions --3d</h3>
+
+<div align="center">
+  <img width="90%" src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3d contribution graph" />
+</div>
+
+<h3>$ ./snake --eat contributions</h3>
+
+<div align="center">
+  <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</div>
+
+---
+
+<h3>$ ping sajeewa</h3>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/spgarusinghe/">
+  <img src="https://img.shields.io/badge/LinkedIn-spgarusinghe-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/sajeeva616/">
+  <img src="https://img.shields.io/badge/LeetCode-sajeeva616-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FF41" alt="LeetCode" />
+</a>
+<a href="mailto:sajeewa.garusinghe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sajeewa.garusinghe-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
 </a>
 
-<p align="center" style='margin: 8px 4px;'>
+```console
+sajeewa@alibaba:~$ ping -c 3 sajeewa.dev
+64 bytes from sajeewa: icmp_seq=1  time=0.4 ms   (still building)
+64 bytes from sajeewa: icmp_seq=2  time=0.3 ms   (still learning)
+64 bytes from sajeewa: icmp_seq=3  time=0.3 ms   (still shipping)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=sajeewagarusinghe&theme=radical)](https://git.io/streak-stats)
+--- sajeewa ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss
 
-</p>
+sajeewa@alibaba:~$ logout
+Connection to github.com closed. █
+```
 
-<p align="Left">
-    <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
-</p>
-
-<p align="Left" style='margin: 8px 4px;'>
-    <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
-</p>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/spgarusinghe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sajeewa%20Garusinghe%20-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://leetcode.com/sajeeva616/"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode-sajeeva616-yellow"></a>
-
-<a href="mailto:sajeewa.garusinghe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sajeewa.garusinghe@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
+</div>
