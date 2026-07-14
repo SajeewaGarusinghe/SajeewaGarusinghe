@@ -143,29 +143,6 @@
 
 ---
 
-<h3>$ ./telemetry --live</h3>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SajeewaGarusinghe&theme=chartreuse-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" alt="github stats" />
-<img height="170em" src="https://streak-stats.demolab.com?user=SajeewaGarusinghe&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
-
-</div>
-
-<h3>$ ./render --contributions --3d</h3>
-
-<div align="center">
-  <img width="90%" src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3d contribution graph" />
-</div>
-
-<h3>$ ./snake --eat contributions</h3>
-
-<div align="center">
-  <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</div>
-
----
-
 <h3>$ ping sajeewa</h3>
 
 <div align="center">
